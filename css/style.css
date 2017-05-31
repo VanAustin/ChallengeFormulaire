@@ -1,0 +1,52 @@
+body {
+	background: #0ac3a7;
+	color: #fffdd8;
+	font-family: Helvetica;
+}
+
+
+
+#root {
+	padding: 30px;
+}
+
+#logo{
+	width: 670px;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	padding: 50px;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
+
+#intro{
+	text-align: center;
+	font-size: 17px;
+	padding-top: 5px;
+	padding-bottom: 50px;
+}
+
+form{
+	/*Centrer dans la page*/
+	margin: 0 auto;
+	width: 500px;
+	/*Pour voir les limites du formulaire*/
+	padding: 1em;
+	border: 1px solid #ccc;
+}
+form div+div{
+	margin-top: 1em;
+}
+
+label{
+	display: inline-block;
+	width: 90px;
+	text-align: right;
+}
+
+.Civilité{
+
+}

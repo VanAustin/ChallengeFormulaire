@@ -1,0 +1,59 @@
+body {
+	background: #0ac3a7;
+	color: #fffdd8;
+	font-family: Helvetica;
+}
+
+#root{
+	padding: 30px;
+}
+
+.Descendre{
+	float: right;
+	padding: 10px;
+	margin-top: -50px;
+	margin-right: 280px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#logo{
+	width: 670px;
+	margin: auto;
+	margin-top: 70px;
+}
+
+h1{
+	text-align: center;
+	padding: 50px;
+	padding-bottom: 20px;
+	font-size: 30px;
+}
+#intro{
+	text-align: center;
+	font-size: 17px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.Commentaire{
+	margin: auto;
+}
+
+form{
+	background-color: #888;
+	color: black;
+	/*Centrer dans la page*/
+	margin: 0 auto;
+	width: 750px;
+	/*Pour voir les limites du formulaire*/
+	padding: 2em;
+	border: 1px solid #ccc;
+	box-sizing:padding-box;;
+}
+
+button{
+	width: 35px;
+	height: 20px;
+}
